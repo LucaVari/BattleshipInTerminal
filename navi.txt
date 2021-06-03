@@ -1,0 +1,5 @@
+Grandezza nave <--> numero di navi (Si accettano solo numeri da 1 a 9)
+2 4
+6 1
+4 2
+3 3
